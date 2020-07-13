@@ -7,7 +7,7 @@ group :development do
   # 3.8.5 throws errors on unfinished liquid tags in excerpts
   # Wait with upgrade until release https://github.com/jekyll/jekyll/pull/7382
   gem 'jekyll', '3.8.4'
-  gem 'compass', '~> 0.12'
+  gem 'compass', '~> 1.0'
   gem 'sass-globbing', '~> 1.0'
   gem 'stringex', '~> 1.4'
   gem 'pry'
