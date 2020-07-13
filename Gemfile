@@ -13,7 +13,7 @@ group :development do
   gem 'pry'
 
   # See https://github.com/home-assistant/home-assistant.github.io/pull/3904
-  gem 'rb-inotify', '< 0.9.9'
+  gem 'rb-inotify', '< 0.10.2'
 end
 
 group :jekyll_plugins do
