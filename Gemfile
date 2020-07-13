@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby "> 2.3.0"
 
 group :development do
-  gem 'rake', '~> 10.0'
+  gem 'rake', '~> 13.0'
   # 3.8.5 throws errors on unfinished liquid tags in excerpts
   # Wait with upgrade until release https://github.com/jekyll/jekyll/pull/7382
   gem 'jekyll', '3.8.4'
