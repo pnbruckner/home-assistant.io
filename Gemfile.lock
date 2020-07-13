@@ -54,7 +54,7 @@ GEM
     mercenary (0.3.6)
     method_source (0.8.2)
     mini_portile2 (2.4.0)
-    nokogiri (1.10.1)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     octopress (3.0.11)
       jekyll (>= 2.0)
