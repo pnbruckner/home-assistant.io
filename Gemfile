@@ -9,7 +9,7 @@ group :development do
   gem 'jekyll', '3.8.4'
   gem 'compass', '~> 0.12'
   gem 'sass-globbing', '~> 1.0'
-  gem 'stringex', '~> 1.4'
+  gem 'stringex', '~> 2.8'
   gem 'pry'
 
   # See https://github.com/home-assistant/home-assistant.github.io/pull/3904
